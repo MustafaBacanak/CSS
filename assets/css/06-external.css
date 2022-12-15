@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p.aaa{
+    color: aqua;
+    font-size: 1.3rem;
+    background-color: black;
+}
+.bbb{
+    font-weight: bold;
+    color: blue;
+}
+
+div.content{
+    background-color: yellow;
+}
